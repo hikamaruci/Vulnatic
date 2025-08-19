@@ -28,5 +28,11 @@
     "createdAt": 1755580119774,
     "expiresAt": 1758172119774,
     "role": "Partner"
+  },
+  "anjay": {
+    "username": "dibb",
+    "createdAt": 1755590966875,
+    "expiresAt": 1758182966875,
+    "role": "Member"
   }
 }
