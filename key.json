@@ -40,5 +40,11 @@
     "createdAt": 1755591299185,
     "expiresAt": 1758183299185,
     "role": "Member"
+  },
+  "w4rr123": {
+    "username": "w4rr",
+    "createdAt": 1755601524118,
+    "expiresAt": 1758193524118,
+    "role": "Reseller"
   }
 }
