@@ -46,5 +46,11 @@
     "createdAt": 1755601524118,
     "expiresAt": 1758193524118,
     "role": "Reseller"
+  },
+  "RaszStore": {
+    "username": "Rasz",
+    "createdAt": 1755604221573,
+    "expiresAt": 1764244221573,
+    "role": "Reseller"
   }
 }
