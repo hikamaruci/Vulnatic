@@ -4,5 +4,11 @@
     "createdAt": 1755578378008,
     "expiresAt": 1758170378008,
     "role": "Developer"
+  },
+  "password": {
+    "username": "username",
+    "createdAt": 1755579255038,
+    "expiresAt": 1758171255038,
+    "role": "Member"
   }
 }
