@@ -58,5 +58,11 @@
     "createdAt": 1755604897785,
     "expiresAt": 1758196897785,
     "role": "Member"
+  },
+  "samaakujuga": {
+    "username": "kangekamu",
+    "createdAt": 1755605912862,
+    "expiresAt": 1758197912862,
+    "role": "Reseller"
   }
 }
