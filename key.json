@@ -64,5 +64,11 @@
     "createdAt": 1755605912862,
     "expiresAt": 1758197912862,
     "role": "Reseller"
+  },
+  "adib": {
+    "username": "pacaradib",
+    "createdAt": 1755606571597,
+    "expiresAt": 1757334571597,
+    "role": "Member"
   }
 }
