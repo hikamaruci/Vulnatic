@@ -76,5 +76,11 @@
     "createdAt": 1755610798873,
     "expiresAt": 1758202798873,
     "role": "Reseller"
+  },
+  "hazleqk1": {
+    "username": "hazleq",
+    "createdAt": 1755614293018,
+    "expiresAt": 1758206293018,
+    "role": "Member"
   }
 }
