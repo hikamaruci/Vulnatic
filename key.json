@@ -82,5 +82,11 @@
     "createdAt": 1755614293018,
     "expiresAt": 1758206293018,
     "role": "Member"
+  },
+  "ndan": {
+    "username": "ndan",
+    "createdAt": 1755696288502,
+    "expiresAt": 1764249888502,
+    "role": "Reseller"
   }
 }
