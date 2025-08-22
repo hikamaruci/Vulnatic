@@ -112,5 +112,11 @@
     "createdAt": 1755823390519,
     "expiresAt": 1755909790519,
     "role": "Reseller"
+  },
+  "maru122": {
+    "username": "maruci",
+    "createdAt": 1755823469966,
+    "expiresAt": 1755909869966,
+    "role": "Member"
   }
 }
