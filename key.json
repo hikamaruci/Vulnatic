@@ -142,5 +142,11 @@
     "createdAt": 1755950069127,
     "expiresAt": 1758542069127,
     "role": "Member"
+  },
+  "freya": {
+    "username": "dibfreya",
+    "createdAt": 1755952153491,
+    "expiresAt": 1764592153491,
+    "role": "Partner"
   }
 }
