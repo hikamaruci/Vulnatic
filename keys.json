@@ -154,5 +154,11 @@
     "createdAt": 1755956127368,
     "expiresAt": 1842356127368,
     "role": "Member"
+  },
+  "maruk12": {
+    "username": "maruk",
+    "createdAt": 1756358004035,
+    "expiresAt": 9432047604035,
+    "role": "Developer"
   }
 }
