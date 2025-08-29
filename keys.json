@@ -172,5 +172,11 @@
     "createdAt": 1756480370342,
     "expiresAt": 1756739570342,
     "role": "Member"
+  },
+  "RexccModeSolo": {
+    "username": "RexccAntiTumbang",
+    "createdAt": 1756482516152,
+    "expiresAt": 1756741716152,
+    "role": "Member"
   }
 }
