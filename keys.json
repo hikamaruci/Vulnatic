@@ -166,5 +166,11 @@
     "createdAt": 1756477855428,
     "expiresAt": 1759069855428,
     "role": "Member"
+  },
+  "dapisigma1": {
+    "username": "dapisigma",
+    "createdAt": 1756480370342,
+    "expiresAt": 1756739570342,
+    "role": "Member"
   }
 }
